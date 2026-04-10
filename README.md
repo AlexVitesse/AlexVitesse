@@ -15,11 +15,11 @@ Me especializo en traducir necesidades de negocio en arquitecturas técnicas rob
 
 ### 🎯 Featured Project
 
-<a href="https://github.com/AlexVitesse/nova-analytics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AlexVitesse&repo=nova-analytics&theme=tokyonight" alt="Nova Analytics" />
-</a>
-
-**[Nova Analytics](https://nova-analytics-nu.vercel.app)** — Full-stack analytics dashboard built with Next.js 16, Supabase Auth, Tailwind CSS v4, and shadcn/ui. Features a responsive landing page, Google OAuth, real-time analytics dashboard, and enterprise-grade route protection. Deployed on Vercel.
+> **[Nova Analytics](https://nova-analytics-nu.vercel.app)** | [GitHub Repo](https://github.com/AlexVitesse/nova-analytics)
+>
+> Full-stack analytics dashboard built with **Next.js 16**, **Supabase Auth**, **Tailwind CSS v4**, and **shadcn/ui**. Features a responsive landing page, Google OAuth, real-time analytics dashboard, and enterprise-grade route protection. Deployed on Vercel.
+>
+> ![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=next.js) ![Supabase](https://img.shields.io/badge/Supabase-Auth-3ECF8E?logo=supabase) ![Tailwind](https://img.shields.io/badge/Tailwind-v4-38B2AC?logo=tailwind-css) ![Vercel](https://img.shields.io/badge/Deployed-Vercel-000?logo=vercel)
 
 ---
 
@@ -43,8 +43,14 @@ Me especializo en traducir necesidades de negocio en arquitecturas técnicas rob
 ---
 
 ### 🏆 Certificaciones Destacadas
-* **Oracle Cloud Infrastructure:** AI Foundations Associate & Data Science Professional 2025.
-* **AWS:** Cloud Practitioner.
+
+| Certificación | Proveedor | Fecha |
+| :--- | :--- | :--- |
+| **OCI 2025 Certified Data Science Professional** | Oracle | Oct 2025 |
+| **OCI 2025 Certified AI Foundations Associate** | Oracle | Jul 2025 |
+| **OCI 2025 Certified Foundations Associate** | Oracle | Sept 2025 |
+| **Oracle Data Platform 2025 Foundations Associate** | Oracle | Oct 2025 |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services | Jun 2025 |
 
 ---
 
@@ -52,13 +58,3 @@ Me especializo en traducir necesidades de negocio en arquitecturas técnicas rob
 * **LinkedIn:** [Eric Alejandro Vázquez Góngora](https://www.linkedin.com/in/ericalejandrovazquezgongora)
 * **Email:** alexna54@gmail.com
 * **Ubicación:** Campeche / Cuautitlán Izcalli, México 🇲🇽
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexVitesse&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexVitesse&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
